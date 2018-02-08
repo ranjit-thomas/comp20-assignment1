@@ -1,0 +1,23 @@
+body{
+	background-color: AntiqueWhite;
+}
+
+.titleSection{
+	background-color: LightBlue;
+	text-align: center;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+.nameOfJob{
+	text-align: center;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+.descriptionOfJob{
+	font-family: verdana;
+	margin-left: 15%;
+	margin-right: 15%;
+	font-size: 75%;
+}
