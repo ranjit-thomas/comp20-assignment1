@@ -1,0 +1,16 @@
+body{
+	background-color: AntiqueWhite;
+}
+
+h2{
+	text-align: center;
+	color: DarkCyan;
+}
+
+p{
+	background-color: LightCoral;
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-family: verdana;
+}
