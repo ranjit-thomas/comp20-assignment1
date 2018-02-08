@@ -9,7 +9,7 @@ body{
 	margin-right: 25%;
 }
 
-.nameOfJob{
+.nameOfJobOrActivity{
 	text-align: center;
 	margin-left: 30%;
 	margin-right: 30%;
@@ -19,5 +19,20 @@ body{
 	font-family: verdana;
 	margin-left: 15%;
 	margin-right: 15%;
+	font-size: 70%;
+}
+
+.listOfLanguages{
+	font-family: verdana;
+	margin-left: 45%;
+	margin-right: 15%;
 	font-size: 75%;
+}
+
+p{
+	font-family: verdana;
+	margin-left: 15%;
+	margin-right: 15%;
+	font-size: 77%;
+	text-align: center;
 }
