@@ -3,25 +3,25 @@ body{
 }
 
 h1{
-	color: LightSlateGray;
+	color: SaddleBrown;
 	background-color: MistyRose;
 	font-family: didot;
 	font-size: 400%%;
 	text-align: center;
 	margin-left: 15%;
 	margin-right: 15%;
-	border: 1px solid LightSlateGray;
+	border: 1px solid SaddleBrown;
 }
 
 h2{
-	color: LightSlateGray;
+	color: SaddleBrown;
 	background-color: MistyRose;
 	font-family: didot;
 	font-size: 150%%;
 	text-align: center;
 	margin-left: 30%;
 	margin-right: 30%;
-	border: 1px solid LightSlateGray;
+	border: 1px solid SaddleBrown;
 }
 
 .titleSection{
@@ -39,8 +39,8 @@ h2{
 
 .descriptionOfJob{
 	font-family: verdana;
-	margin-left: 15%;
-	margin-right: 15%;
+	margin-left: 25%;
+	margin-right: 25%;
 	font-size: 70%;
 }
 
