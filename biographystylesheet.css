@@ -5,12 +5,15 @@ body{
 h2{
 	text-align: center;
 	color: DarkCyan;
+	font-size: 300%;
 }
 
 p{
-	background-color: LightCoral;
+	background-color: AliceBlue;
 	text-align: center;
 	margin-left: 10%;
 	margin-right: 10%;
-	font-family: verdana;
+	font-family: Avenir;
+	border-radius: 20px;
+	border: 1px solid SaddleBrown;
 }
