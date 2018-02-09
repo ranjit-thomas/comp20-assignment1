@@ -3,7 +3,6 @@ body{
 }
 
 h1{
-	color: SaddleBrown;
 	background-color: MistyRose;
 	font-family: didot;
 	font-size: 400%%;
@@ -11,13 +10,13 @@ h1{
 	margin-left: 15%;
 	margin-right: 15%;
 	border: 1px solid SaddleBrown;
+	border-radius: 25px;
 }
 
 h2{
-	color: SaddleBrown;
 	background-color: MistyRose;
 	font-family: didot;
-	font-size: 150%%;
+	font-size: 100%%;
 	text-align: center;
 	margin-left: 30%;
 	margin-right: 30%;
@@ -29,6 +28,8 @@ h2{
 	text-align: center;
 	margin-left: 25%;
 	margin-right: 25%;
+	font-family: verdana;
+	border: 1px solid black;
 }
 
 .nameOfJobOrActivity{
