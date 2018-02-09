@@ -17,9 +17,13 @@ img{
 }
 
 p{
-	background-color: LightBlue;
 	text-align: center;
-	border: 1px solid DarkGreen;
-	margin-left: 25%;
+	font-family: Avenir;
+}
+
+.button{
+	margin-left: 25%
 	margin-right: 25%;
+	color: DarkCyan;
+	font-style: bold;
 }
