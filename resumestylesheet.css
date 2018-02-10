@@ -5,22 +5,12 @@ body{
 h1{
 	background-color: MistyRose;
 	font-family: didot;
-	font-size: 400%%;
+	font-size: 400%;
 	text-align: center;
 	margin-left: 15%;
 	margin-right: 15%;
 	border: 1px solid SaddleBrown;
 	border-radius: 25px;
-}
-
-h2{
-	background-color: MistyRose;
-	font-family: didot;
-	font-size: 100%%;
-	text-align: center;
-	margin-left: 30%;
-	margin-right: 30%;
-	border: 1px solid SaddleBrown;
 }
 
 .titleSection{
